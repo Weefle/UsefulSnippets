@@ -17,7 +17,7 @@ public class OmerrgUtils
 		int lastColor = 0;
 		int currColor = 0;
 		String newMessage = "";
-		String colors = "123456789abcde";
+		String colors = "4c6e2ab319d5f780";
 		for ( int i = 0; i < string.length(); i++ )
 		{
 			do
